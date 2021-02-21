@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "888193556380",
+    "project_id": "katalogsatwatnggp",
+    "storage_bucket": "katalogsatwatnggp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888193556380:android:c05d3c09990dbe13c77259",
+        "android_client_info": {
+          "package_name": "com.makmur.katalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888193556380-061sliq4i1ii45mfna99jld3ltf3muoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makmur.katalog",
+            "certificate_hash": "2a9c6ec45fb8b7fe9b399c6a08b8a94ef3977b92"
+          }
+        },
+        {
+          "client_id": "888193556380-f04oqkrsu0sjp098vd36gmbmn1o6e1r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPRTvL_HNnOGH1rx35tIftzMMBgGtO2QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888193556380-f04oqkrsu0sjp098vd36gmbmn1o6e1r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
